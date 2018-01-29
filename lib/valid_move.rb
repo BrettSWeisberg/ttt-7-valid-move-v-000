@@ -12,4 +12,5 @@ def valid_move? (board, index)
   If position_taken? == "true"
 else
    between? == "true"
+ end
 end
