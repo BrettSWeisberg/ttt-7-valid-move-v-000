@@ -9,6 +9,7 @@ def between?(index)
 end
 
 def valid_move? (board, index)
-  If position_taken? == true
-    between?
+  If position_taken? == "true"
+else
+   between? == "true"
 end
