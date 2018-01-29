@@ -8,5 +8,6 @@ def between?(index)
   [index] >= 0 || [index] >= 8
 end
 
-def valid_move? (board,index)
+def valid_move? (board, index)
   
+end
