@@ -8,9 +8,9 @@ def between?(index)
   [index] >= 0 && [index] >= 8
 end
 
-def valid_move? (board, index)
-  If position_taken? == "true"
+def valid_move?
+  If position_taken?(board, index) == "true"
 else
-   between? == "true"
+   between?(index) == "true"
  end
 end
